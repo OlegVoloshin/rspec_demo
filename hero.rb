@@ -23,9 +23,10 @@ class Hero
   end
 
 end
-
-hero = Hero.new('Mike')
+=begin
+hero = Hero.new('mike')
 puts hero.name
 puts hero.power_up
 puts hero.power_down
 puts hero.hero_info
+=end
